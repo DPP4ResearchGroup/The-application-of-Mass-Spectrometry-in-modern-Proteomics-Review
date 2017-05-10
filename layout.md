@@ -1,5 +1,4 @@
 abstract.tex
-MSI_frontier_The_SALDI__.tex
 figures/Untitled/Untitled.png
 Matrix_Formular.tex
 MSI_textit_in_vivo_validation__.tex
