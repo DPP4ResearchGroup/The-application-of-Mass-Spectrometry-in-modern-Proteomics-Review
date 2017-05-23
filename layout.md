@@ -1,4 +1,5 @@
 abstract.tex
+Ion Detector.tex
 begin_table_caption_textbf_Common__.tex
 begin_equation_Resolution_Power_frac__.tex
 figures/Untitled/Untitled.png
